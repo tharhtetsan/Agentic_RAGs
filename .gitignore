@@ -168,3 +168,5 @@ agentic_rag_multi_agents/.DS_Store
 .DS_Store
 .DS_Store
 .DS_Store
+.DS_Store
+single_agent_with_llm/faiss_index/index.faiss
